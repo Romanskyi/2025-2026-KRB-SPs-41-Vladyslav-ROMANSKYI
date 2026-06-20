@@ -1,10 +1,15 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://romanskii.github.io/tntu-hugo-site/"
+
+relativeURLs = true
+canonifyURLs = false
+
 languageCode = "uk-UA"
 title = "Система автоматизованого розгортання"
 
 [params]
 author = "Студент"
 description = "Демонстраційний вебпроєкт для дипломної роботи"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
