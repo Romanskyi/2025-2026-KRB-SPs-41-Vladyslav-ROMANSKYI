@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    <title>
+        {{ if .Title }}
+            {{ .Title }} | {{ .Site.Title }}
+        {{ else }}
+            {{ .Site.Title }}
+        {{ end }}
+    </title>
+
+    <link rel="stylesheet" href="/css/style.css">
+
+</head>
+
+<body>
+
+<header class="site-header">
+
+    <div class="container">
+
+        <div class="header-top">
+
+            <img src="/images/logo.png"
+                 alt="Логотип ТНТУ"
+                 class="logo">
+
+            <div class="title-block">
+
+                <h1>Тернопільський національний технічний університет</h1>
+
+                <p>імені Івана Пулюя</p>
+
+            </div>
+
+        </div>
+
+        <nav class="navbar">
+
+            <a href="/">Головна</a>
+
+            <a href="/about/">Про університет</a>
+
+            <a href="/services/">Наші сервіси</a>
+
+            <a href="/news/">Новини</a>
+
+            <a href="/contacts/">Контакти</a>
+
+        </nav>
+
+    </div>
+
+</header>
+
+
+
+<main class="container">
+
+    {{ block "main" . }}
+    {{ end }}
+
+</main>
+
+<footer class="footer">
+
+  <div class="footer-content">
+
+    <div>
+      <h3>ТНТУ ім. Івана Пулюя</h3>
+
+      <p>Автоматизоване розгортання та тестування вебпроєктів</p>
+
+      <p>
+        <span class="text-white">© 2026 MySite</span>
+        <span class="text-gold"> • Всі права захищені</span>
+      </p>
+    </div>
+
+    <div>
+      <h4>Навігація</h4>
+      <a href="/">Головна</a><br>
+      <a href="/about/">Про університет</a><br>
+      <a href="/services/">Наші сервіси</a><br>
+      <a href="/news/">Новини</a><br>
+      <a href="/contacts/">Контакти</a>
+    </div>
+
+    <div>
+      
+      <p>📍 м. Тернопіль</p>
+      <p>✉ info@tntu.edu.ua</p>
+      <p>☎ +380 (352) 51-97-01</p>
+    </div>
+
+  </div>
+
+</footer>
+
+</body>
+
+</html>

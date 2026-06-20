@@ -1,0 +1,75 @@
+{{ define "main" }}
+
+<div class="home-page">
+
+
+{{ .Content }}
+
+<section class="tech-stack">
+    <h2>Використані технології</h2>
+
+    <div class="tech-grid">
+
+        <div class="tech-card">
+            <h3>🚀 Hugo</h3>
+            <p>
+                Генератор статичних сайтів для швидкої та ефективної
+                розробки вебресурсів.
+            </p>
+        </div>
+
+        <div class="tech-card">
+            <h3>🔄 Git</h3>
+            <p>
+                Система контролю версій для відстеження змін
+                та підтримки командної розробки.
+            </p>
+        </div>
+
+        <div class="tech-card">
+            <h3>💻 GitHub</h3>
+            <p>
+                Платформа для зберігання вихідного коду
+                та керування репозиторієм проєкту.
+            </p>
+        </div>
+
+        <div class="tech-card">
+            <h3>⚙️ GitHub Actions</h3>
+            <p>
+                Автоматизація тестування, збірки та розгортання
+                вебпроєкту відповідно до концепції CI/CD.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+<section class="pipeline">
+
+    <h2>Архітектура CI/CD</h2>
+
+    <div class="pipeline-flow">
+
+        <div>👨‍💻 Розробник</div>
+        <span>↓</span>
+
+        <div>📦 GitHub</div>
+        <span>↓</span>
+
+        <div>⚙️ GitHub Actions</div>
+        <span>↓</span>
+
+        <div>🧪 Автоматичне тестування</div>
+        <span>↓</span>
+
+        <div>🚀 GitHub Pages</div>
+
+    </div>
+
+</section>
+```
+
+</div>
+
+{{ end }}

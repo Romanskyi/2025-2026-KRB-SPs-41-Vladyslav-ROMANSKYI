@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Головна on Система автоматизованого розгортання</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content in Головна on Система автоматизованого розгортання</description>
+		<generator>Hugo</generator>
+		<language>uk-UA</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Автоматизація розгортання за допомогою GitHub Actions</title>
+				<link>http://localhost:1313/news/github-actions/</link>
+				<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/news/github-actions/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;автоматизація-розгортання-за-допомогою-github-actions&#34;&gt;Автоматизація розгортання за допомогою GitHub Actions&lt;/h1&gt;&#xA;&lt;p&gt;GitHub Actions дозволяє автоматично збирати та публікувати вебпроєкт після внесення змін до репозиторію.&lt;/p&gt;&#xA;&lt;p&gt;У межах дипломного проєкту ця технологія використовується для реалізації процесу безперервної інтеграції та доставки (CI/CD), що значно спрощує підтримку вебресурсу.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Переваги використання Hugo</title>
+				<link>http://localhost:1313/news/hugo/</link>
+				<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/news/hugo/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;переваги-використання-hugo&#34;&gt;Переваги використання Hugo&lt;/h1&gt;&#xA;&lt;p&gt;Hugo є одним із найшвидших генераторів статичних сайтів.&lt;/p&gt;&#xA;&lt;p&gt;Використання Hugo забезпечує високу швидкість завантаження сторінок, простоту супроводу та інтеграцію із сучасними сервісами автоматизованого розгортання.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Використання технології CI/CD</title>
+				<link>http://localhost:1313/news/ci-cd/</link>
+				<pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/news/ci-cd/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;використання-технології-cicd&#34;&gt;Використання технології CI/CD&lt;/h1&gt;&#xA;&lt;p&gt;Безперервна інтеграція та доставка дозволяють автоматизувати процес перевірки та розгортання вебпроєкту.&lt;/p&gt;&#xA;&lt;p&gt;Такий підхід підвищує стабільність роботи системи та мінімізує ризик помилок під час оновлення.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/services/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/services/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Контакти</title>
+				<link>http://localhost:1313/contacts/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/contacts/</guid>
+				<description>&lt;h1 id=&#34;контакти&#34;&gt;Контакти&lt;/h1&gt;&#xA;&lt;h2 id=&#34;тернопільський-національний-технічний-університет&#34;&gt;Тернопільський національний технічний університет&lt;/h2&gt;&#xA;&lt;p&gt;📍 м. Тернопіль&lt;/p&gt;&#xA;&lt;p&gt;вул. Руська, 56&lt;/p&gt;&#xA;&lt;p&gt;46001&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;☎ Телефон&lt;/p&gt;&#xA;&lt;p&gt;+38 (0352) 51-97-01&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📧 Email&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:tntu@tntu.edu.ua&#34;&gt;tntu@tntu.edu.ua&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;🌐 Офіційний сайт&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://tntu.edu.ua&#34;&gt;https://tntu.edu.ua&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;розташування&#34;&gt;Розташування&lt;/h2&gt;&#xA;&lt;iframe&#xD;&#xA;src=&#34;https://www.google.com/maps?q=Тернопільський+національний+технічний+університет&amp;output=embed&#34;&#xD;&#xA;width=&#34;100%&#34;&#xD;&#xA;height=&#34;450&#34;&#xD;&#xA;style=&#34;border:0;border-radius:15px;&#34;&#xD;&#xA;allowfullscreen=&#34;&#34;&#xD;&#xA;loading=&#34;lazy&#34;&gt;&#xD;&#xA;&lt;/iframe&gt;</description>
+			</item>
+			<item>
+				<title>Про університет</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;h1 id=&#34;про-тернопільський-національний-технічний-університет&#34;&gt;Про Тернопільський національний технічний університет&lt;/h1&gt;&#xA;&lt;p&gt;Тернопільський національний технічний університет імені Івана Пулюя є одним із провідних технічних закладів вищої освіти України.&lt;/p&gt;&#xA;&lt;p&gt;Університет здійснює підготовку фахівців у галузях:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Інженерія програмного забезпечення;&lt;/li&gt;&#xA;&lt;li&gt;Комп&amp;rsquo;ютерні науки;&lt;/li&gt;&#xA;&lt;li&gt;Кібербезпека;&lt;/li&gt;&#xA;&lt;li&gt;Автоматизація та робототехніка;&lt;/li&gt;&#xA;&lt;li&gt;Машинобудування;&lt;/li&gt;&#xA;&lt;li&gt;Електроніка.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;основні-напрями-діяльності&#34;&gt;Основні напрями діяльності&lt;/h2&gt;&#xA;&lt;p&gt;✔ Освітня діяльність&lt;/p&gt;&#xA;&lt;p&gt;✔ Наукові дослідження&lt;/p&gt;&#xA;&lt;p&gt;✔ Міжнародне співробітництво&lt;/p&gt;&#xA;&lt;p&gt;✔ Участь у грантових проєктах&lt;/p&gt;&#xA;&lt;p&gt;✔ Впровадження сучасних ІТ-технологій&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;основні-показники&#34;&gt;Основні показники&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Показник&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Значення&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Заснований&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;1960&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Студентів&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;понад 7000&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Факультетів&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;8&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Освітніх програм&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;понад 80&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Викладачів&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;понад 500&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Сайт університету активно використовує сучасні вебтехнології та цифрові сервіси для забезпечення якісного освітнього процесу.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
